@@ -1,0 +1,78 @@
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\bin\BTKAPI.dll.config
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\bin\BTKAPI.dll
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\bin\BTKAPI.pdb
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\bin\Antlr3.Runtime.dll
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\bin\EntityFramework.dll
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\bin\Newtonsoft.Json.dll
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\bin\System.Net.Http.dll
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\bin\System.Net.Http.WebRequest.dll
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\bin\System.Web.Helpers.dll
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\bin\System.Web.Http.dll
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\bin\System.Web.Mvc.dll
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\bin\System.Web.Optimization.dll
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\bin\System.Web.Providers.dll
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\bin\System.Web.Razor.dll
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\bin\System.Web.WebPages.dll
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\bin\WebGrease.dll
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\bin\EntityFramework.xml
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\bin\Newtonsoft.Json.xml
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\bin\System.Net.Http.xml
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\bin\System.Net.Http.WebRequest.xml
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\bin\System.Web.Helpers.xml
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\bin\System.Web.Http.xml
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\bin\System.Web.Mvc.xml
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\bin\System.Web.Razor.xml
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\bin\System.Web.WebPages.xml
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\obj\Debug\BTKAPI.csprojAssemblyReference.cache
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\obj\Debug\BTKAPI.csproj.CoreCompileInputs.cache
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\obj\Debug\BTKAPI.csproj.CopyComplete
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\obj\Debug\BTKAPI.dll
+C:\Users\arthur.silva\Documents\Visual Studio 2010\Projects\BTKAPI\BTKAPI\obj\Debug\BTKAPI.pdb
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\bin\BTKAPI.dll.config
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\bin\BTKAPI.dll
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\bin\BTKAPI.pdb
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\bin\Antlr3.Runtime.dll
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\bin\EntityFramework.dll
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\bin\Newtonsoft.Json.dll
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\bin\System.Net.Http.dll
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\bin\System.Net.Http.WebRequest.dll
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\bin\System.Web.Helpers.dll
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\bin\System.Web.Http.dll
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\bin\System.Web.Mvc.dll
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\bin\System.Web.Optimization.dll
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\bin\System.Web.Providers.dll
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\bin\System.Web.Razor.dll
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\bin\System.Web.WebPages.dll
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\bin\System.Web.WebPages.Razor.dll
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\bin\WebGrease.dll
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\bin\EntityFramework.xml
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\bin\Newtonsoft.Json.xml
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\bin\System.Net.Http.xml
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\bin\System.Net.Http.WebRequest.xml
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\bin\System.Web.Helpers.xml
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\bin\System.Web.Http.xml
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\bin\System.Web.Mvc.xml
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\bin\System.Web.Razor.xml
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\bin\System.Web.WebPages.xml
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\bin\System.Web.WebPages.Razor.xml
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\obj\Debug\BTKAPI.csprojAssemblyReference.cache
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\obj\Debug\BTKAPI.csproj.CoreCompileInputs.cache
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\obj\Debug\BTKAPI.csproj.CopyComplete
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\obj\Debug\BTKAPI.dll
+C:\Users\arthur.silva\source\repos\BTKAPI\BTKAPI\obj\Debug\BTKAPI.pdb
